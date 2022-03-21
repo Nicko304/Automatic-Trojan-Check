@@ -14,5 +14,5 @@ A program that automatically completes Trojan Check once you are logged in (assu
 
 # Disclaimers
 
-- This project is mostly complete. However, I want to hopefully find a host for it through a website to improve user functionality and compatibility for mobile devices.
+- This project is complete and will run properly. However, I want to hopefully find a host for it through a website to improve user functionality and compatibility for mobile devices.
 - This tool is solely meant for USC accounts that meet requirements and have no COVID symptoms. The user is responsible for using the tool honestly as if they would normally complete trojan check to get onto campus.
